@@ -1,2 +1,5 @@
-# distro
-ArchLinux Distro, Inspired by ArcoLinux
+<h1 align="center">
+ <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
+  <br />
+   Distro Name
+</h1>
